@@ -13,6 +13,15 @@ nav:
     - ME/profile.md
     - ME/contact.md
     - ME/account.md
+  - 爱好:
+    - 爱好/index.md
+    - 历史剧:
+      - 爱好/历史剧/大明王朝1566.md
+      - 爱好/历史剧/大秦帝国.md
+
+    - 动漫:
+      - 爱好/动漫.md
+    
 
 
 
